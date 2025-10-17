@@ -1,5 +1,5 @@
 # 🛒 Supermarket Customer Data Cleaning & Preparation
-**Capstone Project 2 – JCDS BSD Bachtiar Mardiansyah**
+**Capstone Project 2 – JCDSBSD Bachtiar Mardiansyah**
 
 Proyek ini merupakan bagian dari Capstone Project yang berfokus pada proses *data cleaning* dan *data preparation* terhadap dataset penjualan dan pelanggan perusahaan **Supermarket Customer**.
 
